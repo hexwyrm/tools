@@ -1,0 +1,28 @@
+# Rust build output
+target/
+**/target/
+
+# Python caches / compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# Logs and temporary files
+**/*.log
+**/*.tmp
+*.log
+*.tmp
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db

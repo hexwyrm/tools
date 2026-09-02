@@ -1,0 +1,14 @@
+# Author: Hexwyrm
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=AI Desktop Workspace
+GenericName=AI Chat Client
+Comment=Secure multi-tab desktop workspace for ChatGPT, Gemini, Copilot, and Claude
+Exec=ai-desktop
+Icon=utilities-terminal
+Terminal=false
+Categories=Network;WebBrowser;GTK;Utility;
+Keywords=chatgpt;gemini;copilot;claude;ai;
+StartupNotify=true
+StartupWMClass=ai-desktop
